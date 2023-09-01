@@ -1,4 +1,4 @@
-![](https://i.imgur.com/xG74tOh.png)
+![](./../capa_readme_luelencavalheiro.gif)
 
 # Back-end | Métodos de Arrays
 
@@ -13,11 +13,29 @@
 
 ---
 
-Preencha a checklist para fazer os exercícios:
+## 🧠⚡️ O Que Eu Aprendi Aqui 👇
 
--   [ ] Fazer o fork do repositório para sua conta
--   [ ] Executar `git clone` do seu fork no terminal para clonar o repositório, ou clonar de outra maneira
--   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
--   [ ] Copiar a url do seu fork e enviar na plataforma
+xxxxxxxx
 
+## ✅ Skills Dominadas 👩‍💻
+
+- comandos GIT para criar e clonar repositórios
+- interpretação e solução de problemas usando Javascript
+- lógica de programação
+- uso do loop for
+- uso de operadores aritiméticos
+- uso do string template 
+- criação de função 
+- uso de métodos string 
+  - slice
+  - indexOf
+  - lastIndexOf
+  - includes
+  - split
+  - trim
+  - toLowerCase && toUpperCase
+  - replace
+  - padStart && padEnd
+ 
+    
 ###### tags: `backend` `exercícios` `lógica` `nodeJS`
