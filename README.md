@@ -1,4 +1,4 @@
-![](./../capa_readme_luelencavalheiro.gif)
+![](./capa_readme_luelencavalheiro.gif)
 
 # Back-end | Métodos de Arrays
 
@@ -15,7 +15,7 @@
 
 ## 🧠⚡️ O Que Eu Aprendi Aqui 👇
 
-xxxxxxxx
+Para resolver essa lista de exercícios, usei os métodos aprendidos em sala de aula. Confesso que quebrei um pouco a cabeça, quando tentei usar métodos de strings que não funcionaram na manipulação de array. Mas quanto mais resolvo os exercícios mais vou me acostumando e lembrando dos métodos e ferramentas existentes para solucionar os problemas apresentados.
 
 ## ✅ Skills Dominadas 👩‍💻
 
@@ -26,16 +26,16 @@ xxxxxxxx
 - uso de operadores aritiméticos
 - uso do string template 
 - criação de função 
-- uso de métodos string 
+- uso de métodos de arrays
   - slice
   - indexOf
-  - lastIndexOf
-  - includes
-  - split
-  - trim
-  - toLowerCase && toUpperCase
-  - replace
-  - padStart && padEnd
+  - reverse
+  - push
+  - pop
+  - splice
+  - join
+  - shift
+ 
  
     
 ###### tags: `backend` `exercícios` `lógica` `nodeJS`
